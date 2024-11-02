@@ -19,7 +19,6 @@
 I’m a passionate and dedicated software engineer specializing in building innovative and scalable solutions. With a strong focus on web development, AI, and machine learning, I thrive in collaborative environments and enjoy exploring cutting-edge technologies.
 
 - 🌍 Based in Uganda
-- 🔭 Co-founder at [Lytelink](https://www.lytelink.tech)
 - 💡 Exploring: AI, Machine Learning, Ethical Hacking, DevOps
 - 📫 Reach me: [alandaambrose@gmail.com](mailto:alandaambrose@gmail.com)
 
