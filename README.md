@@ -71,17 +71,6 @@ const ambroseProfile = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aurits&theme=nightowl&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 🌈 Highlighted Projects
-
-<div align="center">
-
-<!-- Dynamically fetched pinned repositories -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aurits&repo=DATA_SCIENCE_PROJECT&theme=nightowl)](https://github.com/Aurits/DATA_SCIENCE_PROJECT)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=aurits&repo=WEB_APPLICATION&theme=nightowl)](https://github.com/Aurits/WEB_APPLICATION)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=aurits&repo=MACHINE_LEARNING_TOOL&theme=nightowl)](https://github.com/Aurits/MACHINE_LEARNING_TOOL)
-
-</div>
-
 ## 🔬 Professional Contributions
 
 <div align="center">
