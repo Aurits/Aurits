@@ -60,7 +60,7 @@ const ambroseProfile = {
 </details>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aurits&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/aurits" alt="GitHub Contributions" />
 </div>
 
 
