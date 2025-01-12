@@ -60,8 +60,9 @@ const ambroseProfile = {
 </details>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aurits/snake-game-contributions/main/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aurits&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
+
 
 ---
 
