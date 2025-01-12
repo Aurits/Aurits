@@ -59,10 +59,6 @@ const ambroseProfile = {
 
 </details>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/aurits" alt="GitHub Contributions" />
-</div>
-
 
 ---
 
