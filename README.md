@@ -28,6 +28,10 @@ const ambroseProfile = {
 };
 ```
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=58A6FF&width=600&lines=Fun+Fact:+I'm+a+lifelong+learner+with+a+love+for+technology!" alt="Fun Fact Typing SVG"/>
+</div>
+
 ---
 
 ## 🔧 My Toolkit
@@ -54,6 +58,10 @@ const ambroseProfile = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </details>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aurits/snake-game-contributions/main/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
 
 ---
 
